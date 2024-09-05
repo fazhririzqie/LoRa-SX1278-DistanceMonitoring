@@ -7,6 +7,4 @@ For the Schematic Diagram, you can refer to the one provide below:
 
 the first is for transmitter:
 ![Screenshot 2024-09-05 160750](https://github.com/user-attachments/assets/9336197f-d945-4ec1-93a3-755e9bcca00d)
-
-and the second is for receiver:
 ![Screenshot 2024-09-05 160824](https://github.com/user-attachments/assets/04375009-f3a7-48d3-a868-72cfbab730db)
